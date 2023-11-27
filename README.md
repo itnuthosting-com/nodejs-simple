@@ -18,4 +18,6 @@ Login to your webuzo control panel and go to __Add Applicaton__
 | Application type | Node js 19 |
 | Application startup file | ```app.js``` |
 
-After fill the all filds perfectly click on __Create__
+After filling all fields perfectly click on __Create__
+
+Video Tutorial: https://youtu.be/wyqFBAWTEp4
