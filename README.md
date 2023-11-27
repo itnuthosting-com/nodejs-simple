@@ -5,7 +5,7 @@ Download the project file and upload this (app.js) to your domain directory.
 ## Allow Domain from app.js
 After complete upload it, open the *app.js* from a editor.
 In this file you need to allow your application domain.
-Replace *your-domain-or-ip-address* with your Domain or IP Address.
+Replace __*your-domain-or-ip-address*__ with __your Domain or IP Address.__
 
 ## Create the Application
 Login to your webuzo control panel and go to __Add Applicaton__
